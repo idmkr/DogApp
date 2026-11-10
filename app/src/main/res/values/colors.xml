@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Основные цвета темы -->
+    <color name="purple_200">#FFBB86FC</color>
+    <color name="purple_500">#FF6200EE</color>
+    <color name="purple_700">#FF3700B3</color>
+    <color name="teal_200">#FF03DAC5</color>
+    <color name="teal_700">#FF018786</color>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+
+    <!-- Серые цвета -->
+    <color name="gray_50">#FFF5F5F5</color>
+    <color name="gray_100">#FFEEEEEE</color>
+    <color name="gray_200">#FFE0E0E0</color>
+    <color name="gray_300">#FFBDBDBD</color>
+    <color name="gray_400">#FF9E9E9E</color>
+    <color name="gray_500">#FF757575</color>
+    <color name="gray_600">#FF616161</color>
+    <color name="gray_700">#FF424242</color>
+    <color name="gray_800">#FF303030</color>
+    <color name="gray_900">#FF212121</color>
+
+    <!-- Error color -->
+    <color name="error">#FFB00020</color>
+
+    <!-- Если нужно, добавьте остальные цвета из полной палитры: -->
+    <color name="purple_50">#FFF3E5F5</color>
+    <color name="purple_100">#FFE1BEE7</color>
+    <color name="purple_300">#FFBA68C8</color>
+    <color name="purple_400">#FFAB47BC</color>
+    <color name="purple_600">#FF8E24AA</color>
+    <color name="purple_800">#FF6A1B9A</color>
+    <color name="purple_900">#FF4A148C</color>
+
+    <color name="teal_50">#FFE0F2F1</color>
+    <color name="teal_100">#FFB2DFDB</color>
+    <color name="teal_300">#FF4DB6AC</color>
+    <color name="teal_400">#FF26A69A</color>
+    <color name="teal_600">#FF00897B</color>
+    <color name="teal_800">#FF00695C</color>
+    <color name="teal_900">#FF004D40</color>
+</resources>
